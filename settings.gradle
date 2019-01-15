@@ -1,0 +1,3 @@
+rootProject.name = 'hazelcast'
+
+include 'hazelcast-owner', 'hazelcast-client'
